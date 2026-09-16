@@ -1,0 +1,30 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# ASP.NET runtime-generated files
+Properties/launchSettings.json
